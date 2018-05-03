@@ -1,5 +1,5 @@
 {
-  "name": "stylelint-config-saritasa-order",
+  "name": "@saritasa/stylelint-config-order",
   "version": "0.0.1",
   "description": "Saritasa's shareable config of properties order for stylelint",
   "keywords": [
@@ -19,7 +19,7 @@
     "index.js"
   ],
   "peerDependencies": {
-    "stylelint": "^8.2.0",
-    "stylelint-order": "^0.7.0"
+    "stylelint": ">= 8.2.0",
+    "stylelint-order": "^0.8.1"
   }
 }

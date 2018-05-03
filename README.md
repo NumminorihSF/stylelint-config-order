@@ -1,4 +1,4 @@
-# stylelint-config-saritasa-order
+# @saritasa/stylelint-config-order
 
 Saritasa's shareable config of properties order for [stylelint](https://github.com/stylelint/stylelint).
 
@@ -7,7 +7,7 @@ This config allows linting properties by defined [order](http://9elements.com/cs
 1. Install `stylelint` and `stylelint-order`
 
 ```sh
-$ npm install --save-dev stylelint stylelint-order stylelint-config-saritasa-order
+$ npm install --save-dev stylelint stylelint-order @saritasa/stylelint-config-order
 ```
 
-2. Add `"extends": "stylelint-config-saritasa-order"` to your `.stylelintrc` file
+2. Add `"@saritasa/stylelint-config-order"` to your `"extends"` section of `.stylelintrc` file.
