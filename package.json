@@ -1,6 +1,6 @@
 {
   "name": "@saritasa/stylelint-config-order",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Saritasa's shareable config of properties order for stylelint",
   "keywords": [
     "stylelint",
