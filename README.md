@@ -1,5 +1,7 @@
 # @saritasa/stylelint-config-order
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Saritasa/stylelint-config-order.svg)](https://greenkeeper.io/)
+
 Saritasa's shareable config of properties order for [stylelint](https://github.com/stylelint/stylelint).
 
 This config allows linting properties by defined [order](http://9elements.com/css-rule-order/). It requires [stylelint](https://github.com/stylelint/stylelint) and its [stylelint-order](https://github.com/hudochenkov/stylelint-order) plugin.
